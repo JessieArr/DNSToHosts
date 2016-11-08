@@ -54,10 +54,10 @@ namespace DNSToHosts
             DomainList.Text += "twitter.com" + Environment.NewLine;
             DomainList.Text += "reddit.com" + Environment.NewLine;
             DomainList.Text += "imgur.com" + Environment.NewLine;
+            DomainList.Text += "www.tumblr.com" + Environment.NewLine;
             DomainList.Text += Environment.NewLine;
 
             DomainList.Text += "# Video Streaming" + Environment.NewLine;
-            DomainList.Text += "www.tumblr.com" + Environment.NewLine;
             DomainList.Text += "www.youtube.com" + Environment.NewLine;
             DomainList.Text += "www.dailymotion.com" + Environment.NewLine;
             DomainList.Text += "www.netflix.com" + Environment.NewLine;
@@ -90,6 +90,16 @@ namespace DNSToHosts
             DomainList.Text += "nodejs.org" + Environment.NewLine;
             DomainList.Text += "chocolatey.org" + Environment.NewLine;
             DomainList.Text += "news.ycombinator.com" + Environment.NewLine;
+            DomainList.Text += "git-scm.com" + Environment.NewLine;
+            DomainList.Text += Environment.NewLine;
+
+            DomainList.Text += "# IRC Chat" + Environment.NewLine;
+            DomainList.Text += "webchat.freenode.net" + Environment.NewLine;
+            DomainList.Text += "www.mirc.com" + Environment.NewLine;
+            DomainList.Text += "kiwiirc.com" + Environment.NewLine;
+            DomainList.Text += "www.irchelp.org" + Environment.NewLine;
+            DomainList.Text += "search.mibbit.com" + Environment.NewLine;
+            DomainList.Text += "irc.netsplit.de" + Environment.NewLine;
             DomainList.Text += Environment.NewLine;
 
             DomainList.Text += "# Linux Resources" + Environment.NewLine;
